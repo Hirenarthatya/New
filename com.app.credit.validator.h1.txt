@@ -45,7 +45,7 @@
   "isUpdateApp":false,
   "priority":"facebook",
   "showAd":true,
-  "toBeClicked":1,
+  "toBeClicked":10000,
   "totalIntro":5,
   "updateUrl":"https://www.google.com/"
 }
