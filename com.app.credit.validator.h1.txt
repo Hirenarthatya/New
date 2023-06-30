@@ -1,5 +1,5 @@
 {
-  "appOpenVisible": true,
+  "appOpenVisible": false,
   "backPriority":"facebook",
   "facebookBannerId1":"222371430620876_222406450617374",
   "facebookBannerId2":"222371430620876_222406510617368",
