@@ -18,7 +18,7 @@
   "facebookNativeId4":"2230467040654555_2230526237315302",
   "facebookNativeId5":"2230467040654555_2230526437315282",
   "facebookNativeVisible":true,
-  "googleAppOpenAd":"/22937672924/com.app.hk.mudra.yojna.h7/Boli_infotech_App_open",
+  "googleAppOpenAd":"/22941947706/mudrah7_open",
   "googleBannerId1":"/22941947706/mudrah7_banner",
   "googleBannerId2":"/22941947706/mudrah7_banner",
   "googleBannerId3":"/22941947706/mudrah7_banner",
