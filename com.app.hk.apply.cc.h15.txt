@@ -1,5 +1,5 @@
 {
-  "appOpenVisible":true,
+  "appOpenVisible":false,
   "backPriority":"facebook456",
   "facebookBannerId1":"",
   "facebookBannerId2":"",
@@ -44,7 +44,7 @@
   "isNativeFacebookGoogleBoth":false,
   "isUpdateApp":false,
   "priority":"facebook",
-  "showAd":true,
+  "showAd":false,
   "toBeClicked":1,
   "totalIntro":5,
   "updateUrl":"https://www.google.com/"
