@@ -43,8 +43,9 @@
   "isGoogleFailShowFacebook":true,
   "isNativeFacebookGoogleBoth":true,
   "isUpdateApp":false,
+  "isCustomAds":true,
   "priority":"facebook",
-  "showAd":false,
+  "showAd":true,
   "toBeClicked":1,
   "totalIntro":5,
   "updateUrl":"https://www.google.com/"
