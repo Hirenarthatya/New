@@ -46,6 +46,9 @@
   "isCustomAds":true,
   "priority":"facebook",
   "showAd":true,
+  "nativeUrl" : "https://www.google.com",
+  "bannerUrl" : "https://www.google.com",
+  "interUrl" : "https://www.google.com",
   "toBeClicked":1,
   "totalIntro":5,
   "updateUrl":"https://www.google.com/"
