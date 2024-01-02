@@ -45,6 +45,7 @@
   "isUpdateApp":false,
   "priority":"facebook12",
   "showAd":true,
+  "isIntro": false,
   "toBeClicked":1,
   "totalIntro":5,
   "updateUrl":"https://www.google.com/"
