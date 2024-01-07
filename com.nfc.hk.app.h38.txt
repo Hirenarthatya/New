@@ -6,7 +6,7 @@
   "facebookBannerId3":"206717385711755_207338332316327",
   "facebookBannerId4":"206717385711755_206718449044982",
   "facebookBannerId5":"206717385711755_208263895557104",
-  "facebookBannerVisible":false,
+  "facebookBannerVisible":true,
   "facebookInterstitial1":"206717385711755_207337692316391",
   "facebookInterstitial2":"206717385711755_207337612316399",
   "facebookInterstitial3":"206717385711755_207337895649704",
