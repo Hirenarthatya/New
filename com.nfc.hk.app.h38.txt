@@ -18,7 +18,7 @@
   "facebookNativeId4":"206717385711755_208264265557067",
   "facebookNativeId5":"206717385711755_208264315557062",
   "facebookNativeVisible":true,
-  "googleAppOpenAd":"ca-app-pub-3940256099942544/9257395921",
+  "googleAppOpenAd":"/22475853447,22833099192/Leotriplet_com.nfc.hk.app.h38_AppOpen",
   "googleBannerId1":"/22475853447,22833099192/Leotriplet_com.nfc.hk.app.h38_Banner",
   "googleBannerId2":"/22475853447,22833099192/Leotriplet_com.nfc.hk.app.h38_Banner",
   "googleBannerId3":"/22475853447,22833099192/Leotriplet_com.nfc.hk.app.h38_Banner",
