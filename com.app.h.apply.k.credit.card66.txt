@@ -1,5 +1,5 @@
 {
-  "appOpenVisible":true,
+  "appOpenVisible":false,
   "backPriority":"facebook456",
   "facebookBannerId1":"387143590375074_387574840331949",
   "facebookBannerId2":"387143590375074_387575023665264",
@@ -44,7 +44,7 @@
   "isNativeFacebookGoogleBoth":false,
   "isUpdateApp":false,
   "priority":"facebook",
-  "showAd":true,
+  "showAd":false,
   "isIntro": true,
   "toBeClicked":1,
   "totalIntro":5,
